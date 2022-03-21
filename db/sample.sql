@@ -1,0 +1,1 @@
+CREATE TABLE bss(id INTEGER PRIMARY KEY AUTOINCREMENT,name text,body text,CTtime BLOB)
